@@ -69,10 +69,7 @@ body { font-family: 'Roboto',
     background-color: #FFFFFF;
 }
 
-
 /* ==========/COMMON STYLES========== */
-
-
 
 /* ==========HEADER========== */
 
@@ -202,7 +199,7 @@ padding: 120px 0;
 background-color: #FFF;
 } 
 
-.heading-two {
+/* .heading-two {
 color: #2E2F42;
     text-align: center;
     font-size: 36px;
@@ -211,7 +208,7 @@ color: #2E2F42;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     margin-bottom: 72px;
-}
+} */
 
 .advantages-list {
 display: flex;
