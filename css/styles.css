@@ -304,9 +304,6 @@ row-gap: 48px;
 
 .our-portfolio-list-items {
 width: calc((100% - 48px) / 3);
-/* border: 1px solid var(--CORNFLOWER, #E7E9FC);
-background: var(--WHITE, #FFF);
-border-top: none; */
 }
 
 .heading-portfolio {
@@ -335,7 +332,6 @@ color: var(--SLATE, #434455);
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding-bottom: 32px;
 }
 
 /*==========FOOTER==========*/
